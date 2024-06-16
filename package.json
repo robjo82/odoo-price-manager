@@ -1,7 +1,7 @@
 {
-  "name": "ci-template-project",
+  "name": "odoo-price-manager",
   "version": "1.0.0",
-  "description": "A template project for CI/CD",
+  "description": "Odoo Price Manager",
   "scripts": {
     "semantic-release": "semantic-release"
   },
@@ -25,7 +25,7 @@
     "branches": [
       "main"
     ],
-    "repositoryUrl": "https://github.com/robjo82/ci-template.git",
+    "repositoryUrl": "https://github.com/robjo82/odoo-price-manager.git",
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
